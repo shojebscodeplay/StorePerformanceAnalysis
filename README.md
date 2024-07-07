@@ -1,5 +1,6 @@
 # StorePerformanceAnalysis
 This project offers a complete data analytics workflow in Excel, featuring data cleaning, processing, analysis, and an interactive dashboard, ideal for data analysts and enthusiasts. Download, open, and explore for insights.
+![Capture](https://github.com/shojebscodeplay/StorePerformanceAnalysis/assets/70110235/a2e141cc-f40b-4b08-acd1-a50d23b194ac)
 
 # Data Analytics Project with Interactive Excel Dashboard
 
